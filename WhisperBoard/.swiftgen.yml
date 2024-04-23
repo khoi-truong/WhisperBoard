@@ -1,0 +1,13 @@
+input_dir: .
+output_dir: Resources/Generated/
+
+xcassets:
+  inputs:
+    - Resources/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: Assets.swift
+    params:
+      enumName: Asset
+      allValues: true
+      publicAccess: true

@@ -1,0 +1,42 @@
+{
+  "originHash" : "1841ba48a772d72e38e860eb1f5180c86965bf86cbbc71e413a722ceebb6baf7",
+  "pins" : [
+    {
+      "identity" : "audiokit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AudioKit/AudioKit.git",
+      "state" : {
+        "revision" : "b2dbaed8cd38077092b6b6e311699ddf5d94dbd7",
+        "version" : "5.6.3"
+      }
+    },
+    {
+      "identity" : "combineext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CombineCommunity/CombineExt",
+      "state" : {
+        "revision" : "d7b896fa9ca8b47fa7bcde6b43ef9b70bf8c1f56",
+        "version" : "1.8.1"
+      }
+    },
+    {
+      "identity" : "keyboardkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KeyboardKit/KeyboardKit.git",
+      "state" : {
+        "revision" : "341227f77cade78806562d1ea3e86d52113bfc45",
+        "version" : "8.5.1"
+      }
+    },
+    {
+      "identity" : "swiftwhisper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/exPHAT/SwiftWhisper.git",
+      "state" : {
+        "revision" : "a192004db08de7c6eaa169eede77f1625e7d23fb",
+        "version" : "1.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
